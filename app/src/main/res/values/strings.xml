@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">TC2024_Lab1_2018</string>
+    <string name="hello_world">Hello World!!!</string>
+    <string name="random_text">Random Text</string>
+    <string name="i_am_the_child_activity">I am the child activity</string>
+    <string name="return_main">Return</string>
+    <string name="this_is_the_other_activity">This is the other activity</string>
+    <string name="return_main2">Return</string>
+    <string name="main_activity">Main Activity</string>
+    <string name="child_activity">Child Activity</string>
+    <string name="other_activity">Other Activity</string>
 </resources>
